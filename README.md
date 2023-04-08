@@ -1,2 +1,2 @@
-# Day 1-17
+# Day 1-16
 **This is python repository**
