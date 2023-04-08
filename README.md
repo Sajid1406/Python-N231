@@ -1,5 +1,5 @@
 # Day 1-18
-**This is python repository**
+**This is python repository:**
 
 1. This is a comment ->#
 2. Print Hello World
