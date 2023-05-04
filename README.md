@@ -19,3 +19,7 @@
 16. Class,object,method,inheitence,polymorphism
 17. Github 
 18. Web Page Design -> html
+19. Css -> internal,external
+20. 1st tert exam
+21. Java script -> web development
+22. Array slice
